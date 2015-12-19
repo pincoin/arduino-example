@@ -52,7 +52,7 @@ DC모터, 서보모터, BLDC 모터 예제
 
 예제 이름 | 설명
 --------- | ----
-[InfraredProximitySensor](io/InfraredProximitySensor/InfraredProximitySensor.ino) | 적외선 센서(발광부, 수광부) 예제
+[InfraredProximitySensor](sensor/InfraredProximitySensor/InfraredProximitySensor.ino) | 적외선 센서(발광부, 수광부) 예제
 
 ### test
 
