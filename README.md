@@ -4,6 +4,11 @@
 ### io
 
 디지털 입출력 예제
+Blink LED를 깜빡이기 디지털 출력
+SwitchWithExtPullUp 스위치를 누르면 LED 켜기 디지털 입력(외부 풀업 저항)
+SwitchWithExtPullDown 스위치를 누르면 LED 켜기 디지털 입력(외부 풀다운 저항)
+DigitalInputPullUp 스위치를 누르면 LED 켜기 디지털 입력(내부 풀업 저항)
+
 아날로그 입력 예제
 
 ### pwm
