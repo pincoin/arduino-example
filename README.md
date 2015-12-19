@@ -31,8 +31,8 @@ PWM(펄스 폭 변조) 방식으로 아날로그 출력과 유사한 효과
 
 ### serial
 
-시리얼 통신 예제
 UART
+
 예제 이름 | 설명
 --------- | ----
 [SerialBegin](serial/uart/SerialBegin/SerialBegin.ino) | 시리얼 통신 시작하기
