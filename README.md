@@ -3,13 +3,27 @@
 
 ### io
 
-디지털 입출력 예제
-Blink LED를 깜빡이기 디지털 출력
-SwitchWithExtPullUp 스위치를 누르면 LED 켜기 디지털 입력(외부 풀업 저항)
-SwitchWithExtPullDown 스위치를 누르면 LED 켜기 디지털 입력(외부 풀다운 저항)
-DigitalInputPullUp 스위치를 누르면 LED 켜기 디지털 입력(내부 풀업 저항)
+디지털 출력
 
-아날로그 입력 예제
+예제 이름 | 설명
+--------- | ----
+Blink | LED 깜빡이기
+
+디지털 입력 - 스위치 누르면 LED 켜기
+
+예제 이름 | 설명
+--------- | ----
+FloatingInput | 플로팅 상태 입력
+SwitchWithExtPullDown | 외부 풀다운 저항 연결
+SwitchWithExtPullUp | 외부 풀업 저항 연결
+DigitalInputPullUp | 내부 풀업 저항
+
+아날로그 입력
+
+예제 이름 | 설명
+--------- | ----
+PotentiometerInput | 0~1023 값으로 아날로그 입력
+PotentiometerInputPercent | 아날로그 입력값 0~100 백분율 변환
 
 ### pwm
 
