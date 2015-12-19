@@ -27,6 +27,8 @@ void loop() {
 
   if (value < threshold) {
     digitalWrite(outputPin, HIGH);
-    delay(1000);
   }
+
+  // 센서가 안정적으로 작동하여 읽도록 지연
+  delay(1);
 }
