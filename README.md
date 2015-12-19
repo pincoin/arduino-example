@@ -1,5 +1,5 @@
 # arduino-example
-arduiono example code
+아두이노 예제 프로그램
 
 ### io
 
