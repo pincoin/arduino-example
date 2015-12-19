@@ -32,7 +32,10 @@ PWM(펄스 폭 변조) 방식으로 아날로그 출력과 유사한 효과
 ### serial
 
 시리얼 통신 예제
-UART, SPI, I2C, 블루투스
+UART
+[SerialBegin](serial/uart/SerialBegin/SerialBegin.ino) | 시리얼 통신 시작하기
+
+SPI, I2C, 블루투스
 
 ### display
 
