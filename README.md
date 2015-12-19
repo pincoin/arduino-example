@@ -3,6 +3,17 @@
 
 ### io
 
+디지털 입출력과 아날로그 입력을 다룬다.
+
+주요 함수
+ * pinMode()
+ * digitalWrite()
+ * digitalRead()
+ * analogRead()
+ * delay()
+ * Serial.begin()
+ * Serial.println()
+
 디지털 출력
 
 예제 이름 | 설명
@@ -27,9 +38,19 @@
 
 ### pwm
 
-PWM(펄스 폭 변조) 방식으로 아날로그 출력과 유사한 효과
+PWM(펄스 폭 변조) 방식으로 아날로그 출력과 유사한 효과를 얻는다.
+
+주요 함수
+ * analogWrite()
+
+예제 이름 | 설명
+--------- | ----
+PwmLed | PWM 출력으로 LED 밝기 조절
+PwmRgbLed | 3색 RGB LED 조절
 
 ### serial
+
+시리얼 통신으로 UART, SPI, I2C 예제를 다룬다.
 
 UART
 
